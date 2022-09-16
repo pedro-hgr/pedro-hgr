@@ -1,7 +1,8 @@
-### Hi there 👋
+### 😺 Hi, my name is Jackie (Pedro) 😺
 
 <!--
-**Jackie-Band/Jackie-Band** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jackie-Band/Jackie-Ban![Rock](https://user-images.githubusercontent.com/112722390/190700855-4d87c2e3-612e-465a-8465-e92c75fd4c9f.gif) (you found my secret lair)
+d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
