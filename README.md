@@ -24,7 +24,7 @@
 </p>
   
 ## 🧰 Linguagens e Ferramentas
-<div style="display:flex;">
+<div align="center" style="display:flex;">
   <img  alt="HTML" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img  alt="CSS" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img  alt="JavaScript" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -63,7 +63,7 @@
 </p>
 
 ## 🧰 Languages and Tools
-<div style="display:flex;">
+<div align="center" style="display:flex;">
   <img  alt="HTML" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img  alt="CSS" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img  alt="JavaScript" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
