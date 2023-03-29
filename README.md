@@ -6,7 +6,7 @@
 ## <div align='center'> Português 🇧🇷 ([voltar](#inicio))</div>
 
 <h1 align="center" font-size='50px'>
-  Olá, meu nome é Pedro Henrique
+  Olá, meu nome é Pedro Ribeiro
 </h1>
 
 <h3 align="center">
@@ -46,7 +46,7 @@
 ## <div align='center'> English 🇺🇸([voltar](#inicio))</div>
 
 <h1 align="center" font-size='50px'>
-  Hello, my name is Pedro Henrique or "Peter"
+  Hello, my name is Pedro Ribeiro or "Peter"
 </h1>
 <h3 align="center">
   I began my journey in software development in 2022, heavily focused at Web development, learning APIs, REACT, CSS, Node.js and specially JavaScript. <br/>
